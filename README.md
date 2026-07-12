@@ -1,2 +1,2 @@
-# sk123
-Projeto sk123
+# sk-editor-limpo
+SK Code Editor — gerado pelo SK Code Editor
